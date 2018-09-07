@@ -1,0 +1,11 @@
+= everynoise.com Scraper
+
+Download (1979) mp3 clips from http://everynoise.com[everynoise.com]
+
+image::screenshot.png[everynoise.com]
+
+== Why?
+
+30 second clips of different music genre and sub-genre.
+What could we do with it?
+I am planning to visualize these clips in https://www.nodebox.net/[nodebox] and present it at https://www.softwarefreedomday.org/[SFD 2018]
